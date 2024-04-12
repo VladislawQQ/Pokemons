@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokemons Info</string>
+    <string name="pokemons">Pokemons</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="_0">0</string>
+    <string name="load_error">Oops, can\'t load data</string>
+    <string name="try_again">Try Again</string>
+    <string name="enable_errors">Enable Errors</string>
+</resources>
